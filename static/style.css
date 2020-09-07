@@ -1,0 +1,47 @@
+.fb-logo{
+    text-align: center;
+    justify-content: center;
+    margin: 0 auto;
+    height:4rem;
+    width: 100%;
+}
+hr{
+    border-top: 1px solid rgb(164 149 149 / 97%);
+}
+input[type="email"],input[type="password"]{
+    background-color: rgb(153 155 156 / 6%);
+    box-shadow: rgb(181 174 174 / 12%) 0px 1px 6px, rgb(172 170 170 / 12%) 0px 1px 4px;    
+}
+.btn-login{
+    padding: 0.2rem;
+    justify-content: center;
+    text-shadow: 2px 2px 2px #848181;
+    font-weight: 500;
+}
+.centerDiv{
+    text-align: center;
+}
+a{
+    font-size: 0.7rem;
+    color: #7e609e;
+}
+#btn-shadow{
+    text-shadow: 2px 2px 2px #3c3a3a;
+}
+#forget-font{
+    font-size: 1rem;
+}
+.info{
+    text-align: center;
+    color: #686968db;
+    font-size: 0.7rem;
+}
+#btn-plus{
+    background-color: white;
+    color: #686968db;
+    border-radius: 4px;
+    padding: 0 0.2rem;
+}
+#Eng-lang-font{
+    color: #686968db;   
+}
